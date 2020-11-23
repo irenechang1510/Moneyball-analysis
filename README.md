@@ -6,6 +6,8 @@ Project from Undemy's Moneyball Project, written in R, analyze the data of playe
 
 ## [2. 911 call analysis](https://github.com/irenechang1510/Udemy-projects/tree/main/911-call)
 
-An EDA Project from Kaggle, cleaning and visualizing data, examining the 911 calls and what originates the
+An EDA Project from Kaggle, use pandas, numpy, seaborn to clean and visualize data, examining the 911 calls and what originates them.
 
+## [3. Text analysis]()
 
+Datasets from Kaggle competition on Yelp data. Build classification model that classify Yelp Reviews into 1 or 5 categories based off the text content in the reviews. Carry out EDA using pandas, seaborn, then train the models. Use various sklearn modules, analyzing with  different techniques: Naive Bayes and Text processing with pipeline consisting of vectorization and Tfidf transdformer. Evaluation of the models.
