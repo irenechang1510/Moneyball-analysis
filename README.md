@@ -6,4 +6,6 @@ Project from Undemy's Moneyball Project, written in R, analyze the data of playe
 
 ## [2. 911 call analysis]()
 
+An EDA Project from Kaggle, cleaning and visualizing data, examining the 911 calls and what originates the
+
 
